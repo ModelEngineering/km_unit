@@ -1,6 +1,6 @@
 # km_unit: Unit testing for kinetics models
 
-The increasing complexity of kinetics models necessitates are more systematic approach to testing. 
+The increasing complexity of kinetics models necessitates a more systematic approach to testing. 
 
 Testing can be of two types.
 Validation testing seeks to assess the accuracy and utility of the models. For example, does the model accurately predict values of new experimental results? Does the model provide helpful insights, such as disease targets. Validation testing is specific to the model and the model stakeholders.
