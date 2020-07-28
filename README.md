@@ -10,7 +10,7 @@ Validation testing seeks to assess the accuracy and utility of the models. For e
 A second kind of testing is verification.
 Verification checks if the model implementation is consistent with its specification.
 For example, did the model implementation use an incorrect species on a chemical pathway?
-This is akin to unit tests in software systems.
+Software systems use unit tests to do verification.
 Verification testing is rarely done for kinetics models.
 
 This project is about developing unit test capabilities for kinetics models in systems biology.
