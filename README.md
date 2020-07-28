@@ -1,8 +1,8 @@
 # km_unit: Unit Testing for Kinetics Models in Systems Biology
 
-Over the last decade models have grown in size from small tens of reactions to hundreds.
+Over the last decade, kinetics models in systems biology have grown in size from small tens of reactions to hundreds.
 Constraint models are larger still, often many thousands of reactions.
-This increasing complexity raises concerns about the accuracy and limitations of models.
+This increasing complexity raises concerns about the accuracy and limitations of models in systems biology.
 
 Testing is commonly used to detect errors. Testing can be of two types.
 Validation testing seeks to assess the accuracy and utility of the models. For example, does the model accurately predict values of new experimental results? Does the model provide helpful insights, such as disease targets? Validation testing is specific to the model and the model stakeholders.
