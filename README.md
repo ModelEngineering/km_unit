@@ -11,7 +11,7 @@ This is akin to unit tests in software systems.
 Verification testing is rarely done for kinetics models.
 For example, is there a typographical error in which the incorrect chemical species is specified a pathway reaction?
 
-This project is developing unit test capabilities for kinetics models in systems biology.
+This project is about developing unit test capabilities for kinetics models in systems biology.
 The project goals are:
 
 1. Create a software infrastructure for testing kinetics models similar to the python package ``unittest``. The infrastructure should support models in the SBML format, antimony, and roadrunner.
