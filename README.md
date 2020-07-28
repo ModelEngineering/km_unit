@@ -16,7 +16,7 @@ Verification testing is rarely done for kinetics models.
 This project is about developing unit test capabilities for kinetics models in systems biology.
 The project goals are:
 
-1. Create a software infrastructure for testing kinetics models similar to the python package ``unittest``. The infrastructure should support models in the SBML format, antimony, and roadrunner.
+1. Create a software infrastructure for testing kinetics models similar to the python package ``unittest``. The infrastructure should support models in the SBML and antimony formats as well as libroadrunner objects.
 
 1. Create support utilities that extract characteristics of timeseries that are useful for testing dynamics. Examples are: time of the max and min, curve type (e.g., monotone increasing, monotone decreasing, concave), and slopes. The approaches should apply to both deterministic and stochastic simulations.
 
