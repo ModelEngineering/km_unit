@@ -1,0 +1,3 @@
+[submodule "teUtils"]
+	path = teUtils
+	url = https://github.com/sys-bio/teUtils.git
