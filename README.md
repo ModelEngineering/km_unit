@@ -16,7 +16,7 @@ The project goals are:
 
 1. Create a software infrastructure for testing kinetics models similar to the python package ``unittest``. The infrastructure should support models in the SBML format, antimony, and roadrunner.
 
-1. Create support utilities that extract characteristics of timeseries that are useful for testing dynamics. Examples are: series min and max, time of the max, curve type (e.g., monotone increasing, monotone decreasing, concave).
+1. Create support utilities that extract characteristics of timeseries that are useful for testing dynamics. Examples are: time of the max and min, curve type (e.g., monotone increasing, monotone decreasing, concave), and slopes. The approaches should apply to both deterministic and stochastic simulations.
 
 1. Develop tests for the dynamics of common structures in biochemical networks such as: linear pathway, branched pathway, and feedback.
 
