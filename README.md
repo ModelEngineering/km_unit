@@ -1,6 +1,6 @@
 # km_unit: Unit Testing for Kinetics Models in Systems Biology
 
-Over the last decade models have grown in size from small tens of reactions to hundreds or thousands.
+Over the last decade models have grown in size from small tens of reactions to hundreds.
 Constraint models are larger still, often many thousands of reactions.
 This increasing complexity raises concerns about the accuracy and limitations of models.
 
