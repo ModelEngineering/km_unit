@@ -1,4 +1,4 @@
-# km_unit: Unit Testing for Kinetics Models
+# km_unit: Unit Testing for Kinetics Models in Systems Biology
 
 The increasing complexity of kinetics models necessitates a more systematic approach to testing. Over the last decade models have grown in size from small tens of reactions to hundreds or thousands. This makes it increasingly difficult to discover errors. 
 
