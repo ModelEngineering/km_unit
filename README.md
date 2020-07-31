@@ -22,6 +22,6 @@ The project goals for ``km_unit`` are:
 2.	Create support utilities that extract characteristics of time series that are useful for testing dynamics. Examples are: cumulative amount of a chemical species and number of reactions. The approaches should apply to both deterministic and stochastic simulations.
 3.	Develop tests for the dynamics of common structures in biochemical networks such as: linear pathways, branched pathways, and feedback.
 4.	Develop a tool that automatically generates tests for an existing model as a way to automate the construction of "regression tests".
-5.	Validate the approaches using examples from BioModels.
+5.	Validate the approaches using examples from [BioModels](https://www.ebi.ac.uk/biomodels/).
 
 
